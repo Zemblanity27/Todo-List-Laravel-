@@ -9,7 +9,7 @@
 
 
 
-Simple Todo list CRUD app. 
+Simple Todo list CRUD app using PHP and Larave. 
 
 ## About Laravel
 
